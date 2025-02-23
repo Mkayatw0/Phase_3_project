@@ -53,7 +53,7 @@ The data was obtained from Chicago Data Portal :https://data.cityofchicago.org/.
 
 ## **Visualizations**
 ### Top 10 most common accident causes.
-![Top 10 most common accident causes](Primary_Cause_of_Accidents)
+![Top 10 primary causes](Top_10_most_common_accident_causes-1.png)
 1. Failing to yield right-of-way.
 2. Following too closely.
 3. Failing to reduce speed to avoid crash.
