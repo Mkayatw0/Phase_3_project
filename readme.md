@@ -87,7 +87,7 @@ The top 10 vehicles most prone to accidents are
 10. NISSAN ALTIMA with 30,009 accidents reported
 
 ## **Best Model**
-**XGBoost Classifier**. This is due to its uperior AUC Performance. An AUC of(98.01%) indicates excellent capability in distinguishing between classes, ensuring high sensitivity and specificity.
+**XGBoost Classifier**. This is due to its superior AUC Performance. An AUC of(98.01%) indicates excellent capability in distinguishing between classes, ensuring high sensitivity and specificity.
 
 
 ## **Installation**
